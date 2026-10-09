@@ -21,7 +21,7 @@ python manage.py runserver
 ## Test Screenshots
 
 ### 1. Success Response (200 OK)
-![Success Response](./devtrack/200 OK.png)
+![Success Response](./200 OK.png)
 
 ### 2. Failure Response (404 Not Found)
-![Failure Response](./devtrack/404 NOT FOUND.png)
+![Failure Response](./404 NOT FOUND.png)
