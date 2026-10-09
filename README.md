@@ -17,4 +17,11 @@ pip install django
 
 ## Start the development server
 python manage.py runserver
-   
+
+## Test Screenshots
+
+### 1. Success Response (200 OK)
+![Success Response](./200_OK.png)
+
+### 2. Failure Response (404 Not Found)
+![Failure Response](./404_NOT_FOUND.png)
